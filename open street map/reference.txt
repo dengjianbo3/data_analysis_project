@@ -1,2 +1,6 @@
 https://github.com/lifengleaf/OpenStreetMap-Project-Udacity/blob/master/data.py
-http://www.runoob.com/python/python-reg-expressions.html 正则表达式使用
+正则表达式使用
+http://www.runoob.com/python/python-reg-expressions.html 
+匹配中文的正则表达式
+https://stackoverflow.com/questions/2718196/find-all-chinese-text-in-a-string-using-python-and-regex
+
