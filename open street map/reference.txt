@@ -1,4 +1,4 @@
-https://github.com/lifengleaf/OpenStreetMap-Project-Udacity/blob/master/data.py
+https://github.com/lifengleaf/OpenStreetMap-Project-Udacity/blob/master/data.py  
 
 http://www.runoob.com/python/python-reg-expressions.html  正则表达式使用
 
@@ -6,3 +6,4 @@ https://stackoverflow.com/questions/2718196/find-all-chinese-text-in-a-string-us
 
 http://www.runoob.com/sqlite/sqlite-python.html python SQLite库的使用
 
+http://blog.csdn.net/sinat_38321889/article/details/72824871 SQLite中文乱码解决
