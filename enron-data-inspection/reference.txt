@@ -1,1 +1,2 @@
 https://blog.csdn.net/stevenkwong/article/details/52528616  pandas表格合并
+https://stackoverflow.com/questions/40790031/pandas-to-numeric-find-out-which-string-it-was-unable-to-parse
